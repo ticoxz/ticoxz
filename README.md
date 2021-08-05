@@ -42,4 +42,6 @@ _**Aprendizaje:**_  _Estoy actualmente apunto de terminar un full stack bootcamp
 -   [Gmail](mailto:ticomiranda4@gmail.com)
 -   [Instagram](https://www.instagram.com/ticox_/)
 
-Finalmente dejo mi link de mi [Repositorio](https://github.com/ticoxz?tab=repositories)   de git para que puedan ver los proyectos o avanzes de cada uno. 
+Finalmente dejo mi link de mi [Repositorio](https://github.com/ticoxz?tab=repositories)   de git para que puedan ver los proyectos o avanzes de cada uno.
+
+[![gif](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)]
