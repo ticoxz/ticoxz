@@ -6,7 +6,7 @@
 
 
 Voy a estar subiendo proyectos y trabajos que terminé o colaboré, aqui
-abajo podran ver en los que estoy trabajando actualmente y los terminados
+abajo podran ver en los que estoy trabajando actualmente y los terminados.
 
 ## Acerca de mi.
 
