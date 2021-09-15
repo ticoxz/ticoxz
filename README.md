@@ -33,7 +33,7 @@ _**Aprendizaje:**_  _Estoy actualmente apunto de terminar un full stack bootcamp
 
 ## JavaScript - React - Redux - Express - SQL - Node Js
     
--   🛒  [Merceria Araceli](https://pg-merceria-online.vercel.app/)  Merceria Araceli es un e-commerce desarrolado para una merceria en el cual puedes crearte una cuenta, filtrar articulos, buscar, añadir a favoritos, comprar y pagar con tarjetas  [Code](https://github.com/egoyret/PG_MerceriaOnline)_
+-   🛒  [Merceria Araceli](https://pg-merceria-online.vercel.app/)  Merceria Araceli es un e-commerce desarrollado para una merceria en el cual puedes crearte una cuenta, filtrar articulos, buscar, añadir a favoritos, comprar y pagar con tarjetas  [Code](https://github.com/egoyret/PG_MerceriaOnline)_
 
 
 
