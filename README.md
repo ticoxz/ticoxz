@@ -18,6 +18,10 @@ _**Aprendizaje:**_  _Estoy actualmente apunto de terminar un full stack bootcamp
 
 
 
+## Portfolio!
+[link](https://ticoxz.github.io/portafolio/)_
+
+
 
 
 ## JavaScript - React
