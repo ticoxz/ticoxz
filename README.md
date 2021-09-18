@@ -19,7 +19,7 @@ _**Aprendizaje:**_  _Estoy actualmente apunto de terminar un full stack bootcamp
 
 
 ## Portfolio!
-[link](https://ticoxz.github.io/portafolio/)_
+[link](https://ticoxz.github.io/portafolio/)
 
 
 
@@ -29,15 +29,15 @@ _**Aprendizaje:**_  _Estoy actualmente apunto de terminar un full stack bootcamp
 -   🦠  [Covid 19 Visualizer](https://tico-covid-tracker.netlify.app)  Esta es una app en donde consumimos una API de los casos del Covid-19, que se actualiza cada 24 horas, en la APP podremos seleccionar el Pais. Se puede visualizar casos totales, recuperados y muertes ☠️
   [Code](https://github.com/ticoxz/world-covid-tracker)
     
--   🌄  [Free Pics](https://free-pics-to-go.netlify.app/)  FreePics es una app donde podemos buscar imagenes a nuestro gusto, consumimos una API de imagenes sin derechos de autor y es PWA [Code](https://github.com/ticoxz/Image-gallery-pwa)_
+-   🌄  [Free Pics](https://free-pics-to-go.netlify.app/)  FreePics es una app donde podemos buscar imagenes a nuestro gusto, consumimos una API de imagenes sin derechos de autor y es PWA [Code](https://github.com/ticoxz/Image-gallery-pwa)
 
--   🛒  [superGo](https://listago.netlify.app/)  Super Go es una pequeña app para ir listando los articulos del super, de acuerdo a nuestro presupuesto esta lista nos ira restando los articulos [Code](https://github.com/ticoxz/Super-Go)_
+-   🛒  [superGo](https://listago.netlify.app/)  Super Go es una pequeña app para ir listando los articulos del super, de acuerdo a nuestro presupuesto esta lista nos ira restando los articulos [Code](https://github.com/ticoxz/Super-Go)
 
 
 
 ## JavaScript - React - Redux - Express - SQL - Node Js
     
--   🛒  [Merceria Araceli](https://pg-merceria-online.vercel.app/)  Merceria Araceli es un e-commerce desarrollado para una merceria en el cual puedes crearte una cuenta, filtrar articulos, buscar, añadir a favoritos, comprar y pagar con tarjetas  [Code](https://github.com/egoyret/PG_MerceriaOnline)_
+-   🛒  [Merceria Araceli](https://pg-merceria-online.vercel.app/)  Merceria Araceli es un e-commerce desarrollado para una merceria en el cual puedes crearte una cuenta, filtrar articulos, buscar, añadir a favoritos, comprar y pagar con tarjetas  [Code](https://github.com/egoyret/PG_MerceriaOnline)
 
 
 
