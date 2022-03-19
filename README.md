@@ -45,7 +45,7 @@ abajo podran ver en los que estoy trabajando actualmente y los terminados.
 
 -   [LinkedIn](https://www.linkedin.com/in/tico-miranda/)
 -   [Gmail](mailto:ticomiranda4@gmail.com)
--   [Instagram](https://www.instagram.com/ticomiran_/)
+-   [Instagram](https://www.instagram.com/ticomiran/)
 
 Finalmente dejo el link de mi [Repositorio](https://github.com/ticoxz?tab=repositories)   de git para que puedan ver los proyectos o avanzes de cada uno.
 
