@@ -1,6 +1,6 @@
 # Hi there, I'm Marcelo (Tico) Miranda 👋
 
-### Senior Frontend Engineer | React & Next.js Specialist
+### Frontend Engineer | React & Next.js Specialist
 
 I am a software engineer based in **Santiago, Chile**, with **4+ years of experience** building scalable, high-performance web applications. My focus is on creating exceptional user experiences using modern architectures.
 
