@@ -2,9 +2,9 @@
 
 ### Frontend Engineer | React & Next.js Specialist
 
-I am a software engineer based in **Santiago, Chile**, with **4+ years of experience** building scalable, high-performance web applications. My focus is on creating exceptional user experiences using modern architectures and integrating AI solutions into frontend products.
+I am a software engineer based in **Santiago, Chile**, with **4+ years of experience** building scalable, high-performance web applications. My focus is on creating exceptional user experiences using modern architectures and integrating cutting-edge AI solutions into products.
 
-Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Router)**, **TypeScript**, and **Chrome Extensions** to build robust products. I also have strong experience setting up **CI/CD pipelines** and managing cloud infrastructure on **GCP**.
+Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Router)**, **TypeScript**, and **Chrome Extensions** to build robust, innovative SaaS products. I also have strong experience setting up **CI/CD pipelines**, state management architectures, and integrating complex APIs.
 
 ---
 
@@ -13,31 +13,33 @@ Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Ro
 **Frontend Core**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-**AI & Cloud**
-![Groq](https://img.shields.io/badge/-Groq_SDK-orange?style=flat) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/-Chrome_Ext-4285F4?style=flat&logo=google-chrome&logoColor=white)
+**Backend & AI**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq_SDK-f97316?style=flat) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-**State & Design**
-![Zustand](https://img.shields.io/badge/-Zustand-orange?style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**State & UI Design**
+![Zustand](https://img.shields.io/badge/-Zustand-orange?style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Infrastructure & Services**
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Clerk](https://img.shields.io/badge/-Clerk_Auth-6C47FF?style=flat&logo=clerk&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🍌 BananaBridge (SaaS)
-An AI-powered "Copilot" for Google Meet that eliminates language barriers and anxiety in remote meetings.
-* **The Problem:** Latency and complexity in traditional real-time translation tools.
-* **The Solution:** A 100% Client-side Chrome Extension that reads the DOM (MutationObserver) and connects directly to LLMs for instant feedback.
-* **Stack:** React, Vite, TypeScript, Groq Cloud (LLaMA 3.3 70B), Tailwind CSS.
-* **Key Features:**
-    * ⚡ **Zero Backend:** Serverless architecture interacting directly with Groq API.
-    * 🏎️ **Ultra-low Latency:** <500ms response time for grammar corrections and smart replies.
-    * 🧠 **Context Awareness:** Understands conversation context to suggest professional replies in real-time.
+### 🍌 [BananaBridge (AI Meeting Copilot SaaS)](https://banana-bridge.vercel.app/)
+*An advanced AI-powered "Copilot" for Google Meet that completely eliminates language barriers, boosts interview confidence, and automates meeting workflows.*
 
-### 🎵 Alejandria of Music
-A modern music library management platform built to handle complex data relationships and real-time interactions.
-* **Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Zustand.
-* **Key Features:** Modern architecture, responsive UI, optimized performance for media handling.
-* **Infrastructure:** CI/CD integration and cloud deployment.
+* **The Problem:** Latency in real-time translation, generic AI responses, and lack of contextual intelligence during high-stakes remote meetings.
+* **The Solution:** A sophisticated **React+Vite Chrome Extension** paired with a **Next.js Fullstack Dashboard**. It reads the DOM (MutationObserver), proxies requests securely, and uses ultra-low latency LLMs for instant conversational support.
+* **The Stack:** Next.js 14, React, TypeScript, Tailwind CSS, Framer Motion, Zustand, Groq Cloud (LLaMA v3.3), Deepgram Nova 3, Clerk Auth, Stripe.
+
+**🔥 Key Features:**
+* 🎭 **Dynamic AI Personas:** Choose roles like "Senior Engineer", "Product Manager", or "Account Executive" to get tailored, jargon-accurate smart replies.
+* 🧠 **Personal Context Injection:** Upload your CV/PDF directly to the extension. The AI digests your exact profile to answer interview questions using your actual background.
+* 💼 **Interview & Technical Modes:** Adapts the response format automatically—from short tactical answers to full STAR-method (Situation, Task, Action, Result) interview scripts.
+* 🎬 **Director Mode (Memory):** Automatically persists conversation history. You can asynchronously ask the Director to "write Jira tickets based on what we just discussed".
+* 🎧 **Speaker Diarization:** Uses Deepgram API for 54% higher accuracy and real-time multilingual speaker recognition instead of relying solely on Google Meet captions.
+* 💳 **Full Monetization Cycle:** Complete integration with Clerk authentication, Pro user entitlements, usage limits, and Stripe subscriptions.
 
 ---
 
@@ -60,7 +62,7 @@ Check out my DJ sets here: [▶️ @ticobeatz](https://www.youtube.com/@ticobeat
 ---
 
 <div align="center">
-  
-  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com)
+  
+  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com) | [BananaBridge](https://banana-bridge.vercel.app/)
 
 </div>
