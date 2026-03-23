@@ -26,7 +26,7 @@ Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Ro
 
 ## 🚀 Featured Project
 
-### 🍌 [BananaBridge (AI Meeting Copilot SaaS)](https://banana-bridge.vercel.app/)
+### 🍌 [BananaBridge - AI Meeting Copilot](https://b-bridge.app/)
 *An advanced AI-powered "Copilot" for Google Meet that completely eliminates language barriers, boosts interview confidence, and automates meeting workflows.*
 
 * **The Problem:** Latency in real-time translation, generic AI responses, and lack of contextual intelligence during high-stakes remote meetings.
@@ -63,6 +63,6 @@ Check out my DJ sets here: [▶️ @ticobeatz](https://www.youtube.com/@ticobeat
 
 <div align="center">
   
-  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com) | [BananaBridge](https://banana-bridge.vercel.app/)
+  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com) | [BananaBridge](https://b-bridge.app/)
 
 </div>
