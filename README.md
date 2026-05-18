@@ -14,7 +14,7 @@ Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Ro
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Backend & AI**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq_SDK-f97316?style=flat) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq_SDK-f97316?style=flat) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI_Tooling-000000?style=flat)
 
 **State & UI Design**
 ![Zustand](https://img.shields.io/badge/-Zustand-orange?style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -24,7 +24,7 @@ Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Ro
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🍌 [BananaBridge - AI Meeting Copilot](https://b-bridge.app/)
 *An advanced AI-powered "Copilot" for Google Meet that completely eliminates language barriers, boosts interview confidence, and automates meeting workflows.*
@@ -40,6 +40,20 @@ Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Ro
 * 🎬 **Director Mode (Memory):** Automatically persists conversation history. You can asynchronously ask the Director to "write Jira tickets based on what we just discussed".
 * 🎧 **Speaker Diarization:** Uses Deepgram API for 54% higher accuracy and real-time multilingual speaker recognition instead of relying solely on Google Meet captions.
 * 💳 **Full Monetization Cycle:** Complete integration with Clerk authentication, Pro user entitlements, usage limits, and Stripe subscriptions.
+
+### 🔁 [Relay — Git for AI sessions](https://github.com/ticoxz/Relay)
+*Open-source CLI to checkpoint, encrypt, and share AI coding context across editors and teammates — like Git, but for the reasoning behind your code.*
+
+* **The Problem:** Cursor, VS Code Copilot, OpenCode, and Antigravity keep hours of decisions, trade-offs, and file context in proprietary local storage. When you switch machines, editors, or start a fresh chat, that thread is gone — even though your repo has the diff.
+* **The Solution:** A **TypeScript CLI** that reads sessions from supported editors, normalizes them to a standard JSON format, encrypts with **[age](https://github.com/FiloSottile/age)** + team SSH keys, writes to `.ai-memory/` in your project, and generates **`.ai-memory/HANDOFF.md`** for the next human or agent.
+* **The Stack:** Node.js, TypeScript, age encryption, Git hooks, modular readers/injectors (Cursor, VS Code, OpenCode, Antigravity).
+
+**🔥 Key Features:**
+* 👥 **Team relay:** `relay sync --handoff` → commit `HANDOFF.md` → teammate runs `git pull` and continues where you left off.
+* 🔀 **Editor bridge:** `relay inject cursor antigravity` (or VS Code ↔ Cursor) when native import APIs don't exist — `@path` handoff instead of starting from zero.
+* 🔄 **Context window reset:** Save game with `relay sync --handoff`, open a new chat, attach `@.ai-memory/HANDOFF.md` — no re-explaining the whole architecture.
+* 🔐 **Local-first security:** Sessions encrypted per team SSH keys; raw chats stay gitignored, handoff + config travel with the repo.
+* 📦 **Install:** `npm install -g @ticoxz/relay` · [docs & quickstart](https://github.com/ticoxz/Relay#quickstart)
 
 ---
 
@@ -63,6 +77,6 @@ Check out my DJ sets here: [▶️ @ticobeatz](https://www.youtube.com/@ticobeat
 
 <div align="center">
   
-  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com) | [BananaBridge](https://b-bridge.app/)
+  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com) | [BananaBridge](https://b-bridge.app/) | [Relay](https://github.com/ticoxz/Relay)
 
 </div>
