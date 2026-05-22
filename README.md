@@ -64,11 +64,11 @@ Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Ro
 
 **🔥 Key Features:**
 * 🧠 **Agent mode:** `search_memory_facts`, past chats, weather, web search, Google Calendar read/create, custom skills.
-* 📅 **Calendar:** OAuth + `/agenda` + natural language scheduling (`Drimo 25/5 at 11`).
-* 🕸️ **Mind graph:** Interactive entity map with search, zoom, per-user voice style (e.g. Paraguayan Spanish).
+* 📅 **Calendar:** OAuth + `/agenda` + natural language scheduling from chat.
+* 🕸️ **Mind graph:** Interactive entity map with search, zoom, and per-user voice style.
 * 🧩 **Runtime skills:** "I want a skill that…", migrate chat to skill, curator archives unused skills, SKILL.md export.
 * 💾 **Memory:** Auto fact extraction, `/memory`, selective forget, identity answers as short summaries (not raw profile dumps).
-* 🚀 **Deploy:** Local ngrok dev, Vultr/Hetzner VPS 24/7 — [full README](https://github.com/ticoxz/Animus).
+* 🚀 **Deploy:** Docker + VPS (Vultr/Hetzner) or local dev — [full README](https://github.com/ticoxz/Animus).
 
 ---
 
