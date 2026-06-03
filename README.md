@@ -70,6 +70,20 @@ Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Ro
 * 💾 **Memory:** Auto fact extraction, `/memory`, selective forget, identity answers as short summaries (not raw profile dumps).
 * 🚀 **Deploy:** Docker + VPS (Vultr/Hetzner) or local dev — [full README](https://github.com/ticoxz/Animus).
 
+### 🛒 [Walo — WhatsApp Commerce for LATAM Retail](https://walo.dev/)
+*A B2B SaaS that turns a merchant's **WhatsApp** into an operated sales channel: real inventory, guided product chat, native catalog checkout, transfer payments, and a web ops panel — no app install for end customers.*
+
+* **The Problem:** Small shops in Latin America already sell on WhatsApp but lose hours sending photos and prices manually, misplace orders, and mix payment proofs in chaotic chats.
+* **The Solution:** A **pnpm monorepo** with a **Next.js 15** merchant panel + **Node.js/TypeScript API** wired to **WhatsApp Cloud API** and encrypted **WhatsApp Flows**. Inventory syncs from the DB or **Google Sheets**; a **grounded** conversational layer (Groq + rule-based guardrails) answers from real stock, not hallucinated SKUs.
+* **The Stack:** Next.js 15, Node.js, TypeScript, Prisma, WhatsApp Cloud API, Meta Flows, Groq, Google Sheets, Vercel + Render.
+
+**🔥 Key Features:**
+* 💬 **Consultative chat:** Rubro-aware sales guides, session draft cart, and post-LLM validation so the bot doesn't invent products or prices.
+* 📦 **Structured checkout:** Native WhatsApp catalog flow → order total → transfer instructions → proof photo → owner confirms in panel.
+* 📊 **Merchant panel:** Orders and inventory — the owner stays in control of every payment.
+* 🌎 **Built for LATAM:** Spanish-first UX, local currency (e.g. guaraníes), pilot-ready onboarding for ferreterías, bodegas, perfumerías, and similar SMBs.
+* 🔗 **Live:** [walo.dev](https://walo.dev/) · [repo](https://github.com/ticoxz/walo)
+
 ---
 
 ## 💼 Professional Highlights
@@ -92,6 +106,6 @@ Check out my DJ sets here: [▶️ @ticobeatz](https://www.youtube.com/@ticobeat
 
 <div align="center">
   
-  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com) | [BananaBridge](https://b-bridge.app/) | [Relay](https://github.com/ticoxz/Relay) | [Animus](https://github.com/ticoxz/Animus)
+  📫 **Let's connect:** [ticomiranda4@gmail.com](mailto:ticomiranda4@gmail.com) | [BananaBridge](https://b-bridge.app/) | [Walo](https://walo.dev/) | [Relay](https://github.com/ticoxz/Relay) | [Animus](https://github.com/ticoxz/Animus)
 
 </div>
