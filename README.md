@@ -2,7 +2,7 @@
 
 ### Frontend Engineer | React & Next.js Specialist
 
-I am a software engineer based in **Santiago, Chile**, with **4+ years of experience** building scalable, high-performance web applications. My focus is on creating exceptional user experiences using modern architectures and integrating cutting-edge AI solutions into products.
+I am a software engineer based in **Santiago, Chile**, with **4.5+ years of experience** building scalable, high-performance web applications. My focus is on creating exceptional user experiences using modern architectures and integrating cutting-edge AI solutions into products.
 
 Currently, I specialize in the **React ecosystem**, leveraging **Next.js (App Router)**, **TypeScript**, and **Chrome Extensions** to build robust, innovative SaaS products. I also have strong experience setting up **CI/CD pipelines**, state management architectures, and integrating complex APIs.
 
